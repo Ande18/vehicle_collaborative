@@ -1,0 +1,11 @@
+{
+    "mock-device-1742053265": {
+        "device_name": "Driver's Android Phone",
+        "platform": "Android",
+        "os_version": "12",
+        "app_version": "1.0.0",
+        "phone_number": "+1234567890",
+        "email": "driver@example.com",
+        "user_name": "Test Driver"
+    }
+}

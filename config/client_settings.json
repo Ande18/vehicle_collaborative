@@ -1,0 +1,8 @@
+{
+    "notification_sound": true,
+    "vibration": true,
+    "show_low_priority": true,
+    "alert_expiry_hours": 24,
+    "auto_connect": true,
+    "theme": "light"
+}

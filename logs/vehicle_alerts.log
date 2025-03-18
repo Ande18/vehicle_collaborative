@@ -1,0 +1,13 @@
+2025-03-15 20:11:33,097 - INFO - Loaded model and scaler for engine
+2025-03-15 20:11:33,148 - INFO - Loaded model and scaler for transmission
+2025-03-15 20:11:33,206 - INFO - Loaded model and scaler for brakes
+2025-03-15 20:11:33,250 - INFO - Loaded model and scaler for battery
+2025-03-15 20:11:33,297 - INFO - Loaded model and scaler for electrical
+2025-03-15 20:11:33,316 - INFO - Loaded alert configuration from config/alert_config.json
+2025-03-15 20:11:33,320 - INFO - Driver alert monitoring started
+2025-03-15 20:11:33,333 - INFO - Alert generated: engine - high - 1.00
+2025-03-15 20:11:33,346 - INFO - Alert generated: transmission - high - 0.98
+2025-03-15 20:11:35,434 - INFO - Alert generated: engine - high - 1.00
+2025-03-15 20:11:35,487 - INFO - Alert generated: electrical - high - 0.98
+2025-03-15 20:11:37,547 - INFO - Alert generated: battery - high - 1.00
+2025-03-15 20:11:39,572 - INFO - Driver alert monitoring stopped

@@ -1,0 +1,28 @@
+{
+    "notification_settings": {
+        "enable_mobile_alerts": true,
+        "high_priority_cooldown_minutes": 30,
+        "medium_priority_cooldown_minutes": 120,
+        "low_priority_cooldown_minutes": 360,
+        "quiet_hours_start": 22,
+        "quiet_hours_end": 7,
+        "respect_quiet_hours": true,
+        "override_quiet_hours_for_high_priority": true
+    },
+    "notification_services": {
+        "use_firebase": false,
+        "use_sms": false,
+        "use_email": false
+    },
+    "sms_settings": {
+        "api_key": "",
+        "from_number": ""
+    },
+    "email_settings": {
+        "smtp_server": "",
+        "smtp_port": 587,
+        "username": "",
+        "password": "",
+        "from_address": "vehicle-alerts@example.com"
+    }
+}

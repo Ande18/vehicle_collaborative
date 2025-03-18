@@ -1,0 +1,19 @@
+2025-03-15 20:39:20,162 - INFO - Connected to alert server
+2025-03-15 21:12:37,866 - INFO - Connected to alert server
+2025-03-15 21:16:25,714 - INFO - Connected to alert server
+2025-03-15 21:16:36,261 - INFO - Received alert: electrical - low - 0.25
+2025-03-15 21:16:46,319 - INFO - Received alert: transmission - low - 0.37
+2025-03-15 21:16:56,400 - INFO - Received alert: engine - medium - 0.45
+2025-03-15 21:17:06,509 - INFO - Received alert: battery - low - 0.32
+2025-03-15 21:17:26,791 - INFO - Received alert: engine - low - 0.34
+2025-03-15 21:18:07,182 - INFO - Received alert: battery - low - 0.29
+2025-03-15 21:18:17,573 - INFO - Received alert: brakes - low - 0.27
+2025-03-15 21:18:19,222 - INFO - Device registered with token: mobile-device-1742053699
+2025-03-15 21:18:26,870 - INFO - Settings saved
+2025-03-15 21:18:26,871 - INFO - Settings updated
+2025-03-15 21:18:28,249 - INFO - Received alert: electrical - low - 0.40
+2025-03-15 21:18:33,185 - INFO - Disconnected from alert server
+2025-03-15 21:41:19,986 - INFO - Connected to alert server
+2025-03-15 21:41:30,004 - INFO - Received alert: electrical - low - 0.22
+2025-03-15 21:41:33,084 - INFO - Disconnected from alert server
+2025-03-15 21:42:17,308 - INFO - Device registered with token: mobile-device-1742055137

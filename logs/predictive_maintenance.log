@@ -1,0 +1,11 @@
+2025-03-14 22:38:35,691 - INFO - Preprocessed engine_telemetry.csv
+2025-03-14 22:38:35,717 - INFO - Preprocessed transmission_telemetry.csv
+2025-03-14 22:38:35,746 - INFO - Preprocessed brakes_telemetry.csv
+2025-03-14 22:38:35,774 - INFO - Preprocessed battery_telemetry.csv
+2025-03-14 22:38:35,800 - INFO - Preprocessed electrical_telemetry.csv
+2025-03-14 22:38:36,167 - INFO - Saved model and scaler for engine_telemetry.csv
+2025-03-14 22:38:36,533 - INFO - Saved model and scaler for transmission_telemetry.csv
+2025-03-14 22:38:36,877 - INFO - Saved model and scaler for brakes_telemetry.csv
+2025-03-14 22:38:37,211 - INFO - Saved model and scaler for battery_telemetry.csv
+2025-03-14 22:38:37,540 - INFO - Saved model and scaler for electrical_telemetry.csv
+2025-03-14 22:38:37,541 - INFO - Predictive Maintenance Pipeline Completed Successfully
